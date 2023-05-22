@@ -1,0 +1,10 @@
+{
+  "step" : [300, 200],
+   "type": ["CASH_IN", "CASH_OUT"],
+   "amount": [80000, 500000],
+   "oldbalanceOrg": [1400060, 0],
+   "newbalanceOrig": [1304930.49, 0],
+   "oldbalanceDest": [150000, 5000000],
+   "newbalanceDest": [50000, 1500000],
+   "isFlaggedFraud": [0, 0]
+}
